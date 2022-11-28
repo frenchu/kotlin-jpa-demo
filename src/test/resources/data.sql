@@ -1,0 +1,1 @@
+INSERT INTO carrier VALUES ('21f25f91-54f2-4ed1-8697-89bca69bf8e9', 'DPD', 5.0);
